@@ -1,0 +1,16 @@
+h1{
+    border-top: 20px solid royalblue;
+    border-bottom:20px solid yellow ;
+    border-right: 20px solid gray;
+    border-radius: 100px;
+    margin-right: 500px;
+    margin-left: 200px;
+    padding-right: 100px;
+    background-color: aqua;
+    
+    
+}
+body{background-color: cadetblue;}
+h2{
+
+}

@@ -1,0 +1,27 @@
+.a{
+    width: 100%;
+    height: 90vh;
+    background-color: burlywood;
+    transition: ;
+    transition-delay:2s ;
+    transition-duration: 3s;
+
+}
+#d1{transition-timing-function: linear;
+
+background-color: brown;}
+#d2{transition-timing-function: ease;}
+#d3{transition-timing-function: ease-in;}
+#d4{transition-timing-function: ease-in-out;}
+#d5{transition-timing-function: ease-out;}
+div:hover{
+    background-color:green ;
+}
+#d1:hover{transition-timing-function: linear;
+
+    background-color: brown;
+transform: scale(1.5);}
+    #d2:hover{transition-timing-function: ease;background-color: blue;}
+    #d3:hover{transition-timing-function: ease-in;background-color: blueviolet;}
+    #d4:hover{transition-timing-function: ease-in-out;background-color: cadetblue;}
+    #d5:hover{transition-timing-function: ease-out;background-color: red;}

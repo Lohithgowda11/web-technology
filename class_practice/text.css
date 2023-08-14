@@ -1,0 +1,15 @@
+h1{
+    text-align: center;
+    text-transform:uppercase;
+    text-shadow: 5px -10px 2px royalblue;
+    font-size: 50px;
+    font-family: sans-serif;
+    font-weight: bolder;
+    font-style: italic;
+}
+.t{
+    color: black;
+    text-align: center;
+
+}
+i{color: blue;}

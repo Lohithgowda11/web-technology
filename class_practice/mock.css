@@ -1,0 +1,40 @@
+dl{
+    display: flex;
+    font-size: large;
+}
+dt{
+    padding-right: 350px;
+    padding-left: 150px;
+    font-size: larger;
+}
+
+button{
+    padding: 10px;
+    border-bottom-left-radius: 20px;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-top-right-radius: 20px;
+    margin-left: 10px;
+    margin-right: 20px;
+}
+.disp{
+    display: flex;
+}
+.content{
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 300px;
+    
+    font-size: larger;
+}
+img{
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 50px;
+}
+table{
+    padding-top: 50px;
+}
+.main{
+    background-color: aqua;
+}

@@ -1,0 +1,35 @@
+h1:hover{
+    color: aqua;
+    text-shadow: 10px 10px 10px green;
+
+}
+h1{
+    color: red;
+    text-decoration: dotted solid;
+}
+.a{
+    border-radius: 50%;
+}
+.a:hover{
+    
+    background-color: crimson;
+    border-style: double;
+    background-color: blueviolet;
+    border: 10px solid green;
+    
+    filter: grayscale(3);
+
+}
+.b:hover{
+    
+    height: 400px;
+    width: 400px;
+}
+.c:hover{
+    
+    border-bottom-left-radius: 100px;
+    border-top-left-radius: 200px;
+    border-bottom-right-radius: 100px;
+    border-top-right-radius: 200px;
+    filter: opacity(0.8);
+}

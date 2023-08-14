@@ -1,0 +1,47 @@
+h1{
+    margin: 200px;
+    padding: 100px;
+    border-top-style: dashed;
+    border-bottom-style: dotted;
+    border-right-style: groove;
+    border-left-style: inset;
+    border-top-color: black;
+    border-bottom-color: aqua;
+    border-left-color: blue;
+    border-right-color: rebeccapurple ;
+    border-bottom-left-radius: 100px;
+    border-bottom-right-radius: 100px;
+    border-radius: 50px;
+    border-width: 100px;
+    border-top-width: 250px;
+    background-color: cornsilk;
+    
+}
+.a{
+    border-radius: 50%;
+    
+    
+}
+.b{
+    border-bottom-left-radius: 50% ;
+    border-top-right-radius: 50%;
+    border: 1px;
+    
+
+}
+.c{
+    border-end-start-radius: 100px;
+    border-top-style: dashed solid;
+    border-color: blue;
+    
+}
+.d{
+    
+    padding: 10px;
+    border-style: dashed;
+    border-bottom-left-radius: 50px;
+    border-top-right-radius: 50px;
+    border-collapse: separate;
+    background-color: chocolate;
+    border-top-style: groove;
+}
