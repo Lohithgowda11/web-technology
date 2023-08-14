@@ -1,0 +1,44 @@
+#main{
+    height: 600px;
+    width: 400px;
+    background-color: black;
+    border: 5px red solid;
+    margin-top: 500px;
+    margin-bottom: 500px;
+    margin-left: 500px;
+}
+.a{
+    height: 150px;
+    width: 150px;
+    background-color: aqua;
+    position: relative;
+    right: 10px;
+    
+    
+    
+}
+.b{
+    height: 150px;
+    width: 150px;
+    background-color: blue;
+    position: fixed;
+    top: 150px;
+}
+.c{
+    height: 150px;
+    width: 150px;
+    background-color: blueviolet;
+    
+    position: -webkit-sticky;
+    position: sticky;
+    float: right;
+}
+.d{
+    height: 150px;
+    width: 150px;
+    background-color: brown;
+    position: relative;
+    top: 20px;
+    right: 20px;
+
+}
