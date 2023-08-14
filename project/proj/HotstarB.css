@@ -1,0 +1,107 @@
+#screen{
+    background-color: black;
+}
+#l1{
+    font-size: x-large;
+    color: aliceblue;
+    margin-left: 30px;
+}
+#l2{
+    display: flex;
+    margin-left: 40px;
+}
+#b1{
+    font-size: x-large;
+    color: aliceblue;
+    margin-left: 30px;
+}
+#b2{
+    display: flex;
+    margin-left: 50px;
+
+}
+#p1{
+    font-size: x-large;
+    color: aliceblue;
+    margin-left: 30px;
+}
+#p2{
+    display: flex;
+    margin-left: 30px;
+}
+#m1{
+    font-size: x-large;
+    color: aliceblue;
+    margin-left: 30px;
+}
+#m2{
+    display: flex;
+    margin-left: 30px;
+}
+#s1{
+    font-size: x-large;
+    color: aliceblue;
+    margin-left: 30px;
+}
+#s2{
+    display: flex;
+    margin-left: 30px;
+}
+#pm1{
+    font-size: x-large;
+    color: aliceblue;
+    margin-left: 30px;
+}
+#pm2{
+    display: flex;
+    margin-left: 30px;
+}
+.a:hover{
+    height: 280px;
+    width: 230px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.b:hover{
+    height: 280px;
+    width: 230px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.c:hover{
+    height: 280px;
+    width: 230px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.d:hover{
+    height: 280px;
+    width: 230px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.e:hover{
+    height: 280px;
+    width: 230px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.f:hover{
+    height: 280px;
+    width: 230px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.g:hover{
+    height: 280px;
+    width: 230px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+#z{
+    font-size: x-large;
+    color: orange;
+}
+.form-control mr-sm-2{
+    font-size: xx-large;
+}
