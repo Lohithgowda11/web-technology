@@ -1,0 +1,9 @@
+h1{
+    margin: 50px 50px 50px 50px;
+    box-sizing: border-box;
+    border: 10px solid red;
+    text-align: center;
+    border-radius: 50%;
+    background-color: aqua;
+    text-shadow: 5px 5px 1px yellowgreen;
+}

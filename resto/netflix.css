@@ -1,0 +1,79 @@
+button{
+    background-color: red;
+    color: white;
+    float: right;
+}
+h1{
+    color: white;
+}
+h2{
+    color: white;
+}
+h3{
+    color: white;
+}
+h4{
+    color: white;
+}
+.h{
+    background-color: red;
+    padding: 1px;
+}
+.a{
+    padding: 20px;
+}
+#home{
+    background-image:url(https://miro.medium.com/max/1400/1*5lyavS59mazOFnb55Z6znQ.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#about{
+    background-color: black;
+    display: flex;
+}
+.f{
+    margin-left: 100px;
+    margin-top: 250px;
+}
+#photo{
+    background-color: black;
+    display: flex;
+}
+#contact{
+    background-color: black;
+    display: flex;
+}
+.e{
+    height: 300px;
+    width: 400px;
+    margin-top: 100px;
+    margin-left: 100px;
+}
+.i{
+    margin-top: 100px;
+    margin-left: 250px;
+}
+.g{
+    margin-top: 100px;
+    margin-left: 100px;
+}
+.j{
+    margin-top: 100px;
+    margin-left: 100px;
+}
+.k{
+    margin-top: 100px;
+    margin-left: 250px;
+}
+#info{
+    background-color: black;
+    display: flex;
+}
+.l{
+    margin-top: 100px;
+    margin-left: 100px;
+}
+.m{
+    margin-top: 100px;
+    margin-left: 200px;
+}
